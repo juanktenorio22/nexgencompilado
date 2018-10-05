@@ -1,0 +1,31 @@
+[
+  {
+    "question": "¿Cuáles son las dos máquinas exhibidas en la zona del jardín? ",
+    "answers": [ "336 y 320", "336 GC y 320 GC", "336GC y 320" ],
+    "index": 2,
+    "zona": "exhibición de máquinas",
+    "mensaje": "Las dos máquinas exhibidas en la zona del jardín son 336GC y 320."
+  },
+  {
+    "question": "¿Cuánto puede incrementar la eficiencia del operador en las excavadoras Next Gen? ",
+    "answers": [ "45%", "40%", "30%" ],
+    "index": 0,
+    "zona": "de contenedores",
+    "mensaje": "Se puede incrementar la eficiencia del operador en las excavadoras Next Gen en 45%."
+  },
+  {
+    "question": "¿Cuántas miniaturas hay en la maqueta central de la zona social? ",
+    "answers": [ "3", "4", "5" ],
+    "index": 1,
+    "zona": "social",
+    "mensaje": "En la zona social hay 4 miniaturas."
+  },
+  {
+    "question": "¿Cuál es la primera máquina que apareció sobre el montículo durante la demostración de la Next Gen?",
+    "answers": [ "323", "336", "320 GC" ],
+    "index": 1,
+    "zona": "demo",
+    "mensaje": "La primera máquina que apareció sobre el montículo durante la demostración de la Next Gen fue 336."
+  }
+
+]
